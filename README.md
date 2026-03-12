@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, 👋 I'm Jitheng!
+# Hi there, 👋 I'm Jithen!
 
 ### Full Stack Developer | Web Enthusiast | Open Source Contributor
 
